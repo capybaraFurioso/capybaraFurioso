@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Isaac Lira — Software Developer. Web, automation and games." width="100%" />
+  <img src="assets/banner.gif" alt="Cartoon penguin swimming underwater" width="100%" />
 </p>
 
 <p align="center">
