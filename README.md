@@ -1,24 +1,44 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Isaac Lira — Software Developer. Web applications and automation." width="100%" />
+  <img src="assets/banner.svg" alt="Isaac Lira — Software Developer. Web, automation and games." width="100%" />
 </p>
 
-### About me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=5EEAD4&center=true&vCenter=true&width=600&lines=Building+web+apps+that+hold+up+after+the+demo;Automating+the+boring+parts;Currently+shipping+a+cozy+Roblox+game;Penguin+enthusiast+%F0%9F%90%A7" alt="Typing animation: building web apps, automating, shipping a Roblox game" />
+</p>
 
-I'm Isaac, a software developer based in the Dominican Republic. I build web applications and automation tools, with an interest in how a product works beyond its first demo: clear interfaces, reliable APIs, and tests that catch real problems.
+<table align="center" border="0">
+  <tr>
+    <td width="120" align="center" valign="middle">
+      <img src="assets/penguin.png" alt="Penguin mascot" width="96" />
+    </td>
+    <td valign="middle">
+      Hi, I'm <strong>Isaac</strong>, a software developer from the Dominican Republic.<br/>
+      I build web applications and automation tools, and I care about what happens after the first demo: clear interfaces, reliable APIs, and tests that catch real problems.<br/><br/>
+      Penguins are the unofficial mascot around here.
+    </td>
+  </tr>
+</table>
 
-I enjoy working across the stack, connecting the details people see with the systems behind them.
+### Currently building
 
-### Selected work
+**Rift Valley** — a cozy farming game on Roblox. Tend crops, befriend creatures, and open portals between valleys. Written in Luau with a server-authoritative design, tested outside Studio where possible.
+
+### Things I've built
 
 #### [FamTree](https://github.com/Sigfridows/famtree)
 
-A team-built web application for discovering and comparing senior care residences in the Dominican Republic.
+A team project for discovering and comparing senior care residences in the Dominican Republic: searchable catalog, interactive map, favorites and comparisons, user reviews, plus admin panels for center management and moderation.
 
-The platform brings together a searchable catalog, an interactive map, saved favorites, residence comparisons, and user reviews. Dedicated administration panels support center management and platform moderation.
+Next.js · React · TypeScript · FastAPI · PostgreSQL
 
-**Built with:** Next.js · React · TypeScript · FastAPI · PostgreSQL
+### Practice
 
-[Explore the repository →](https://github.com/Sigfridows/famtree)
+I'm starting to solve problems on these platforms. Early days, but the profiles are public:
+
+<p>
+  <a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME"><img src="https://img.shields.io/badge/HackerRank-0b1220?style=for-the-badge&logo=hackerrank&logoColor=5eead4" alt="HackerRank" /></a>
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-0b1220?style=for-the-badge&logo=leetcode&logoColor=a78bfa" alt="LeetCode" /></a>
+</p>
 
 ### Tools I work with
 
@@ -26,6 +46,7 @@ The platform brings together a searchable catalog, an interactive map, saved fav
 | :--- | :--- |
 | Frontend | TypeScript, React, Next.js, Tailwind CSS |
 | Backend | Python, FastAPI, PostgreSQL |
+| Games | Roblox, Luau |
 | Testing | Vitest, Testing Library, pytest, Playwright |
 | Development | Git, GitHub Actions, Docker, Linux |
 
@@ -34,6 +55,11 @@ The platform brings together a searchable catalog, an interactive map, saved fav
 - Interfaces that are readable, accessible, and straightforward to use.
 - Backend behavior that stays consistent with what the interface promises.
 - Small, reviewable changes backed by meaningful tests.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=capybaraFurioso&show_icons=true&hide_border=true&bg_color=0b1220&title_color=5eead4&icon_color=a78bfa&text_color=cbd5e1" alt="GitHub stats for capybaraFurioso" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capybaraFurioso&layout=compact&hide_border=true&bg_color=0b1220&title_color=5eead4&text_color=cbd5e1" alt="Most used languages" height="160" />
+</p>
 
 ---
 
