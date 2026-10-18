@@ -33,11 +33,10 @@ Next.js · React · TypeScript · FastAPI · PostgreSQL
 
 ### Practice
 
-I'm starting to solve problems on these platforms. Early days, but the profiles are public:
+I'm starting to solve problems on LeetCode. Early days, but the profile is public:
 
 <p>
-  <a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME"><img src="https://img.shields.io/badge/HackerRank-0b1220?style=for-the-badge&logo=hackerrank&logoColor=5eead4" alt="HackerRank" /></a>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-0b1220?style=for-the-badge&logo=leetcode&logoColor=a78bfa" alt="LeetCode" /></a>
+  <a href="https://leetcode.com/u/capybaraFurioso/"><img src="https://img.shields.io/badge/LeetCode-0b1220?style=for-the-badge&logo=leetcode&logoColor=a78bfa" alt="LeetCode profile: capybaraFurioso" /></a>
 </p>
 
 ### Tools I work with
