@@ -13,31 +13,18 @@
     </td>
     <td valign="middle">
       Hi, I'm <strong>Isaac</strong>, a software developer from the Dominican Republic.<br/>
-      I build web applications and automation tools, and I care about what happens after the first demo: clear interfaces, reliable APIs, and tests that catch real problems.<br/><br/>
-      Penguins are the unofficial mascot around here.
+      I build web applications and automation tools, and I care about what happens after the first demo.
     </td>
   </tr>
 </table>
 
 ### Currently building
 
-**Rift Valley** — a cozy farming game on Roblox. Tend crops, befriend creatures, and open portals between valleys. Written in Luau with a server-authoritative design, tested outside Studio where possible.
-
-### Things I've built
-
-#### [FamTree](https://github.com/Sigfridows/famtree)
-
-A team project for discovering and comparing senior care residences in the Dominican Republic: searchable catalog, interactive map, favorites and comparisons, user reviews, plus admin panels for center management and moderation.
-
-Next.js · React · TypeScript · FastAPI · PostgreSQL
+**Rift Valley** — a cozy farming game on Roblox. Tend crops, befriend creatures, and open portals between valleys. Written in Luau with a server-authoritative design.
 
 ### Practice
 
-I'm starting to solve problems on LeetCode. Early days, but the profile is public:
-
-<p>
-  <a href="https://leetcode.com/u/capybaraFurioso/"><img src="https://img.shields.io/badge/LeetCode-0b1220?style=for-the-badge&logo=leetcode&logoColor=a78bfa" alt="LeetCode profile: capybaraFurioso" /></a>
-</p>
+<a href="https://leetcode.com/u/capybaraFurioso/"><img src="https://img.shields.io/badge/LeetCode-0b1220?style=for-the-badge&logo=leetcode&logoColor=a78bfa" alt="LeetCode profile: capybaraFurioso" /></a>
 
 ### Tools I work with
 
@@ -48,17 +35,6 @@ I'm starting to solve problems on LeetCode. Early days, but the profile is publi
 | Games | Roblox, Luau |
 | Testing | Vitest, Testing Library, pytest, Playwright |
 | Development | Git, GitHub Actions, Docker, Linux |
-
-### What I care about
-
-- Interfaces that are readable, accessible, and straightforward to use.
-- Backend behavior that stays consistent with what the interface promises.
-- Small, reviewable changes backed by meaningful tests.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=capybaraFurioso&show_icons=true&hide_border=true&bg_color=0b1220&title_color=5eead4&icon_color=a78bfa&text_color=cbd5e1" alt="GitHub stats for capybaraFurioso" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capybaraFurioso&layout=compact&hide_border=true&bg_color=0b1220&title_color=5eead4&text_color=cbd5e1" alt="Most used languages" height="160" />
-</p>
 
 ---
 
